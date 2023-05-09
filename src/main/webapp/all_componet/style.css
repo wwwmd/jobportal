@@ -1,0 +1,22 @@
+.bg-custom{
+	background: #283593 !important;
+}
+
+.btn{
+	border-radius:10px;
+	background-color:white;
+	color:black;
+}
+.nav-Link:hover{
+		border-radius:10px;
+	background-color:white;
+	color:black;
+	
+}
+
+
+
+  .radius{
+	border-radius:10px;
+	background-color: white;
+}
